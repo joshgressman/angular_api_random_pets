@@ -1,0 +1,37 @@
+body {
+  color: white;
+  background-color: black;
+}
+
+
+img {
+  height: 240px;
+  width: 240px;
+  border: 0px;
+  background-color: gray;
+}
+
+.container {
+  margin-bottom: 20px;
+  border: solid gray;
+  padding: 5px 5px 5px 5px;
+}
+
+iframe {
+  margin: 0 400px; 0 auto;
+}
+
+.jumbotron {
+    margin-bottom: 0px;
+    /*background-image: url(/images/furry.jpg);*/
+    /*background-position: 0% 25%;*/
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+    margin-bottom: 20px;
+}
+
+h1 {
+ text-align: center;
+}
